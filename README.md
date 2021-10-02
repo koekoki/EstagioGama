@@ -1,8 +1,8 @@
 # EstagioGama
 Projeto Gama
 
-ETAPA 1 - FATORIAL
-Criar uma função que receba como parâmetro o valor a e que deverá calcular e retornaro fatorial deste valor a.
+ETAPA 1 - FATORIAL <br>
+Criar uma função que receba como parâmetro o valor a e que deverá calcular e retornaro fatorial deste valor a. <br>
 ETAPA 2 - FIBONACCI
 Criar uma função recursiva que receba como parâmetro o valor n e que deverá calcular e retornar o enésimo
 elemento da sequência de Fibonacci.
