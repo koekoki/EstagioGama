@@ -4,7 +4,6 @@ Projeto Gama
 ETAPA 1 - FATORIAL <br>
 
 Criar uma função que receba como parâmetro o valor a e que deverá calcular e retornaro fatorial deste valor a. <br>
-<br>
 
 ETAPA 2 - FIBONACCI<br>
 
